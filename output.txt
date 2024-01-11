@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+61	unix	Unix Installer	E:\emsigner_new\emSigner_280519\setup\Linux\setup\emSigner_unix_1_7_0.sh

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="emSigner_unix_1_7_0.sh" newVersion="1.7.0" newMediaFileId="61" fileSize="10942596" md5Sum="9b6222a0f058f2ea5aaf6552ccce9c13" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
